@@ -24,6 +24,7 @@ Curated list of Uzbek Telegram dev groups
 
 ## Frontend
 
+- [@redwoodjs_uz](https://t.me/redwoodjs_uz)
 - [@uzverstalshiki](https://t.me/uzverstalshiki)
 - [@vuejs_uz](https://t.me/vuejs_uz)
 - [@react_uz](https://t.me/react_uz)
@@ -36,6 +37,7 @@ Curated list of Uzbek Telegram dev groups
 ## Backend
 
 - [@nodejs_uz](https://t.me/nodejs_uz)
+- [@redwoodjs_uz](https://t.me/redwoodjs_uz)
 - [@denolanduz](https://t.me/denolanduz)
 - [@bunjs_uz](https://t.me/bunjs_uz)
 - [@nestjs_uz](https://t.me/nestjs_uz)
